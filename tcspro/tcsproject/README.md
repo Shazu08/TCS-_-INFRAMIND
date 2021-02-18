@@ -8,9 +8,9 @@ Text-Summarization through FLASK using NLP
  Run the these Commands in the Pycharm (venv) or CMD(for Windows) :
 
 * For installing FLASK and NLTK:
-                pip install Flask
-                pip install NLTK
-
+* pip install NLTK
+* pip install Flask
+  
 * For exporting and processing the data,run the following script in new .py file before ruuning the application as follows:
 >               import nltk
 >               nltk.download('stopwords')
