@@ -7,7 +7,7 @@ Text-Summarization through FLASK using NLP
 * ##### Install Python Libraries as follows ,
  Run the these Commands in the Pycharm (venv) or CMD(for Windows) :
 
-* For installing FLASK and NLTK:
+ For installing FLASK and NLTK:
 * pip install NLTK
 * pip install Flask
   
